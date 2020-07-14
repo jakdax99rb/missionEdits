@@ -1,9 +1,9 @@
-﻿<?xml version="2.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="BTC Hearts and Minds: Mission">
     <Package name="Description">
         <Container name="Description: Main">
             <Key ID="STR_BTC_HAM_DESCR_NAME">
-                <Original>CA HaM Cherno 2020 v2</Original>
+                <Original>CA HaM Cherno 2020 v3</Original>
                 <Spanish>Hearts and Minds</Spanish>
                 <German>Hearts and Minds</German>
                 <Portuguese>Corações e Mentes</Portuguese>
